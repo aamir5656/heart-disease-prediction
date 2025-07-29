@@ -63,12 +63,9 @@ weighted avg       0.92      0.92      0.92        59
 
 ## 🧠 Streamlit App
 
-I created a **Streamlit web application** using the RidgeClassifier model to make heart disease predictions based on user input.
+Experience the live deployment of this machine learning-powered web app that predicts the risk of heart disease based on user-provided health inputs. The application, built using Streamlit, leverages a clean and interactive interface for easy data input, real-time prediction, and basic visualizations.
 
-- App filename: `heart_app.py`
-- Deployed using: [Streamlit Community Cloud](https://streamlit.io/cloud)
-- Input fields include: Age, Gender, Chest Pain Type, Cholesterol, Blood Pressure, ECG, Heart Rate, etc.
-
+🔗 Try it here: Heart Disease Prediction App
 ---
 
 ## 📁 Dataset
@@ -78,20 +75,7 @@ I created a **Streamlit web application** using the RidgeClassifier model to mak
 
 ---
 
-## ⚙️ Installation
 
-1. Clone this repository  
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the app:
-
-```bash
-streamlit run heart_app.py
-```
 
 ---
 
