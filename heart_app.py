@@ -13,7 +13,7 @@ st.title("Heart Disease Prediction App")
 # Load dataset
 @st.cache_data
 def load_data():
-    dataset = pd.read_csv(r"C:\Users\Aamir Shahzad\OneDrive\Desktop\archive\heart_cleveland_upload.csv")
+    dataset = pd.read_csv("heart disease prediction.csv")
     dataset.rename(columns={
         'age': 'age',
         'sex': 'gender',
