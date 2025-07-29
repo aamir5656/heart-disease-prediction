@@ -61,11 +61,12 @@ weighted avg       0.92      0.92      0.92        59
 
 ---
 
-## 🧠 Streamlit App
+### 🌡️ Live Heart Disease Prediction App (Built with `heart_app.py`)
 
-Experience the live deployment of this machine learning-powered web app that predicts the risk of heart disease based on user-provided health inputs. The application, built using Streamlit, leverages a clean and interactive interface for easy data input, real-time prediction, and basic visualizations.
+Experience the live deployment of this machine learning-powered web app that predicts the risk of heart disease based on user-provided health inputs. The application, built using **Streamlit**, leverages a clean and interactive interface for easy data input, real-time prediction, and basic visualizations.  
 
-🔗 Try it here: Heart Disease Prediction App
+🔗 **Try it here:** [https://heart-disease-prediction-56.streamlit.app/](https://heart-disease-prediction-56.streamlit.app/)
+
 ---
 
 ## 📁 Dataset
